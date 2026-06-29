@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **how to life a better life**
 
-- 👨‍💻 All of my projects are available at [elvirthaqi.dev](elvirthaqi.dev)
+- 👨‍💻 All of my projects are available at [elvirthaqi.dev](www.elvirthaqi.dev)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **elvir.thaqi99@hotmail.com**
 
-- 📄 Know about my experiences [elvirthaqi.dev](elvirthaqi.dev)
+- 📄 Know about my experiences [elvirthaqi.dev](www.elvirthaqi.dev)
 
 - ⚡ Fun fact **i just love to travel**
 

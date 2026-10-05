@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvirth&label=Profile%20views&color=0e75b6&style=flat" alt="elvirth" /> </p>
 
-- 🔭 I build automation systems that connect commerce, CRM, and communication platforms — n8n, webhooks, and API integrations running in production
+- 🔭 I build automation systems that connect commerce, CRM and communication platforms — n8n, webhooks, and API integrations running in production
 
 - 🧠 Full-stack when the build needs it, project management when the build needs coordinating
 
